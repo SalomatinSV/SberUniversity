@@ -9,7 +9,7 @@
 - **numpy**
 - **scipy**
 - **matplotlib**
-- sklearn.decomposition.**PCA**
+- **Psklearn.decomposition.CA**
 
 ## Цель исследования
 
